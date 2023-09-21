@@ -1,4 +1,4 @@
-public class Truck implements Vehicle {
+public class Truck implements Vehicle, Engine {
     private String modelName;
     private int wheelsCount;
 
